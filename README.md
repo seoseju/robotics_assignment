@@ -1,7 +1,7 @@
 # robotics_assignment
 Team Name: 오니
 
-<br> Team Member: 2371069 황영서
+Team Member: 2371069 황영서
 
 Project: 
   This project implements a Pick-and-Place system using a Panda robot (panda_gz_moveit2) in a ROS2 and Gazebo simulation environment.
@@ -26,3 +26,4 @@ References:
 
 
 Presentation YouTube Link:
+  https://youtu.be/C_eZhlllM70 
